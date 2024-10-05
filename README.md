@@ -12,3 +12,4 @@ How To Run:
 3. Open .sln file
 4. Press Run/Debug
 
+Entry class file is CSOPESYWK4_Hinolan.cpp
